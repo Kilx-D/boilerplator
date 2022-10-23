@@ -1,0 +1,40 @@
+{
+  "name": "react-scss",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "x",
+    "@testing-library/react": "x",
+    "@testing-library/user-event": "x",
+    "react": "x",
+    "react-dom": "x",
+    "react-scripts": "x",
+    "sass": "x",
+    "web-vitals": "x"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "sass": "sass --watch src/scss:src/assets"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

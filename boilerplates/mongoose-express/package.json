@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "x",
+    "chalk": "^4.1.2",
+    "chalk-animation": "^1.6.0",
+    "dotenv": "x",
+    "express": "x",
+    "mongoose": "x",
+    "nanospinner": "^1.1.0"
+  }
+}
